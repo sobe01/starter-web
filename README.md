@@ -8,6 +8,4 @@ This repository is for showing how Git and GitHub work
 
 ## How To
 
-## Questions
- 
 My sample website with plenty of files for demos

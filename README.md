@@ -10,4 +10,4 @@ This repository is for showing how Git and GitHub work
 
 ## Questions
  
-Sample website with plenty of files for demos
+My sample website with plenty of files for demos
